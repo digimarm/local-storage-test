@@ -1,0 +1,6 @@
+
+h1 { background:#900; color:#fff; margin:0; padding:10px; }
+h2 { background:#080; color:#fff; margin:0; padding:10px; font-size:1.3em; }
+
+.box { border:1px solid #333; margin:10px;  }
+.output { margin:10px; min-height:100px; }
